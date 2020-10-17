@@ -91,7 +91,7 @@
     "trakt.tv-matcher": "1.x.x",
     "trakt.tv-ondeck": "0.x.x",
     "underscore": "1.x.x",
-    "urijs": "1.18.3",
+    "urijs": "1.19.2",
     "webtorrent": "^0.98.24",
     "webtorrent-health": "^1.1.2"
   },
