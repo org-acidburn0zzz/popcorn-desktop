@@ -51,7 +51,7 @@
     "@bower_components/videojs-youtube": "eXon/videojs-youtube#1.2.10",
     "adm-zip": "0.4.7",
     "airplayer": "2.0.0",
-    "async": "2.1.2",
+    "async": "2.6.3",
     "butter-provider": "0.6.0",
     "butter-provider-anime": "1.0.0",
     "butter-provider-movies": "1.0.3",
