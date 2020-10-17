@@ -83,7 +83,7 @@
     "rimraf": "^2.6.2",
     "sanitizer": "0.x.x",
     "semver": "^5.5.0",
-    "send": "0.14.x",
+    "send": "0.17.1",
     "tar": "2.2.1",
     "temp": "0.x.x",
     "trakt.tv": "2.x.x",
